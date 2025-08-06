@@ -61,6 +61,8 @@ ul li a:hover{
     border-radius: 10px;
     background-color: #fff;
     width: 100px;
+    border: none;
+    outline: none;
 }
 .text button:hover{
     background: rgb(206, 199, 199);
@@ -85,4 +87,5 @@ ul li a:hover{
 }
 .icons img:hover{
     transform:scale(1.2) ;
+
 }
